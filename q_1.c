@@ -6,6 +6,7 @@ int main() {
     // Take input for N
     scanf("%d", &N);  // Read the integer N from the user
     
+    
     // Loop through numbers from 1 to N
     for (int i = 1; i <= N; i++) {
         // Check if the current number is divisible by 5
